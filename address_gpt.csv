@@ -1,0 +1,51 @@
+address_id,detailed_address,city,state,zip_code
+1,1234 Elm St.,Springfield,Illinois,62704
+2,5678 Oak Ave.,Shelbyville,Indiana,46176
+3,9101 Pine Dr.,Ogdenville,Ohio,43068
+4,1213 Maple Ln.,North Haverbrook,Michigan,49037
+5,1415 Birch Rd.,Capital City,Minnesota,55101
+6,1617 Cedar St.,Brockway,Pennsylvania,16823
+7,1819 Redwood Ave.,Sutterville,California,95685
+8,2021 Spruce Blvd.,Cypress Creek,Florida,32004
+9,2324 Chestnut Ct.,Monroe,Louisiana,71201
+10,2526 Walnut Way,Seaside,Texas,77571
+11,2728 Hickory St.,Littleneck,New York,11362
+12,2930 Alder Ave.,Rivertown,Washington,98501
+13,3132 Fir Dr.,Laketown,Wisconsin,53201
+14,3334 Hemlock Ln.,Hill Valley,California,95420
+15,3536 Juniper Rd.,Kingston,Georgia,30145
+16,3738 Dogwood St.,Pleasantville,New Jersey,08232
+17,3940 Sycamore Ave.,Sunnydale,California,94116
+18,4142 Poplar Blvd.,Evergreen,Colorado,80439
+19,4344 Teak Ct.,Riverside,Connecticut,06878
+20,4546 Mahogany Way,Woodside,Delaware,19971
+21,4748 Beech St.,Meadowville,Maine,04009
+22,4950 Elmwood Ave.,Brookside,Maryland,20740
+23,5152 Firwood Dr.,Lakeshore,Massachusetts,02124
+24,5354 Grove Ln.,Riverview,Michigan,48067
+25,5556 Hillside Rd.,Mountainview,Minnesota,55422
+26,5758 Ivy Ct.,Valleyview,Mississippi,38671
+27,5960 Juniper Blvd.,Lakewood,Missouri,64055
+28,6162 Kestrel Ave.,Meadowbrook,Montana,59044
+29,6364 Larch Dr.,Brookfield,Nebraska,68005
+30,6566 Maplewood Ln.,Lakeview,Nevada,89120
+31,6768 Oakwood Rd.,Ridgeview,New Hampshire,03054
+32,6970 Pine Ct.,Valleybrook,New Jersey,07054
+33,7172 Redwood Dr.,Hillside,New Mexico,87121
+34,7374 Spruce Ln.,Meadowland,New York,10025
+35,7576 Teakwood Rd.,Lakeside,North Carolina,27514
+36,7778 Walnut Ct.,Brookdale,North Dakota,58201
+37,7980 Willow Dr.,Ridgefield,Ohio,44122
+38,8182 Alderwood Ln.,Valleydale,Oklahoma,73013
+39,8384 Birchwood Rd.,Lakeland,Oregon,97035
+40,8586 Cedarwood Ct.,Meadowland,Pennsylvania,19044
+41,8788 Dogwood Dr.,Brookland,Rhode Island,02865
+42,8990 Elmwood Ln.,Ridgeville,South Carolina,29210
+43,9192 Firwood Rd.,Lakewood,South Dakota,57104
+44,9394 Grove Ct.,Valleyland,Tennessee,37211
+45,9596 Hillwood Dr.,Meadowview,Texas,75044
+46,9798 Ivywood Ln.,Lakeside,Utah,84044
+47,9999 Juniper Rd.,Ridgebrook,Vermont,05401
+48,10101 Kestrel Ct.,Brookwood,Virginia,22180
+49,10203 Larchwood Dr.,Valleywood,Washington,98052
+50,10305 Maplewood Ln.,Lakeland,West Virginia,25304
